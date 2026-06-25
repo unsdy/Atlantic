@@ -148,3 +148,5 @@ nav a{font-size:13px;letter-spacing:.01em}
 .theme-light .services-hero .ghost:hover{background:#fff;color:#0b3d70;border-color:#0b3d70;box-shadow:0 14px 30px rgba(17,58,102,.14)}
 @media(max-width:700px){.proof-location{display:flex!important;flex-direction:column;justify-content:space-between;gap:8px;line-height:1.45;font-size:10px!important;letter-spacing:.055em}.proof-location span{float:none;align-self:flex-end;margin-top:auto;font-size:22px}.theme-light .proof-location{color:#8d6821}.currents-section .service-request{scroll-margin-top:82px}}
 @media(max-width:430px){.proof-location{font-size:9px!important}.proof-location span{font-size:20px}}
+.theme-light .hero-video-hero .proof-location{color:#082b52;text-shadow:none}
+.theme-light .hero-video-hero .proof-location span{color:#1769aa}
